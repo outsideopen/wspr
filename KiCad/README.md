@@ -1,0 +1,2 @@
+# wspr-hat
+KiCad files
